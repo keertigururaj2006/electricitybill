@@ -7,4 +7,4 @@ if len(sys.argv) != 2:
 units = float(sys.argv[1])
 bill = units * 5
 
-print("Electricity Bill: ₹", bill)
+print("Electricity Bill: Rs ", bill)
